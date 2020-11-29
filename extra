@@ -1,0 +1,16 @@
+React is frontend lib which help to build single page application
+using component
+
+functional
+> dump component
+> display 
+> cannot maintain state
+
+classComponent
+> logical
+> api call + Display
+> can maintain state
+
+
+-----------
+Hooks Component
